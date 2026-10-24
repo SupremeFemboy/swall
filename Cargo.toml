@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-winit = "0.30"
 wgpu = "24"
 image = "0.25"
 bytemuck = { version = "1", features = ["derive"] }
